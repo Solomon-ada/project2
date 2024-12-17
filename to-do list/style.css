@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+
+.to-do-list{
+    min-height: 15rem;
+    width: 20rem;
+    margin-left: 20rem;
+    margin-top: 15rem;
+    background-color: antiquewhite;
+    padding: 1rem;
+    border-radius: 1rem;
+}

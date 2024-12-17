@@ -1,0 +1,40 @@
+.calculater{
+    margin-left: 5rem;
+    margin-top: 10rem;
+    justify-content: center;
+    align-items: center;
+    width:200px ;
+    height: 250px;
+    border: 2px solid rgb(239, 188, 94);
+    padding: .5rem;
+    background: wheat;
+}
+#bar{
+height: 35px;
+background: rgb(121, 119, 119);
+color: aliceblue;
+font-size: .8rem;
+font-weight: 600;
+}
+.button{
+    margin-top: 5px;
+    width: 160px;
+    height: 200px;
+
+}
+button{
+    font-size: 1.6rem;
+    margin: 2.5px;
+}
+
+.btn{
+    background: rgb(241, 179, 64);
+    border: none;
+    transition: .3s;
+}
+.btn:hover {
+    background: rgb(208, 137, 5);
+}
+.btn:active{
+    background: rgb(0%, 0%, 50%);
+}

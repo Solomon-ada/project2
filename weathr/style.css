@@ -1,0 +1,32 @@
+.weather{
+    height: 420px;
+    width: 350px;
+    background: rgb(162, 238, 238);
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 2rem;
+}
+ .bars{
+    height: 30px;
+    margin-left: 3rem;
+}
+.bars input{
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    border-radius: 2rem;
+    padding: .5rem;
+}
+.bars button{
+    margin-top:1rem;
+    font-size: 1.5rem;
+   
+}
+.condition{
+    margin-top: 80px;
+    margin-left: 150px;
+    font-size: 4rem;
+}
+.about-weather{
+    margin-top: 80px;
+    margin-left: 150px;
+}

@@ -1,0 +1,18 @@
+.test{
+    width: 20rem;
+    height: 20rem;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    background: rgb(194, 239, 194);
+    padding: 2rem;
+}
+.btn button{
+    margin: .8rem;
+    width: 20rem;
+    padding-right: 18rem;
+}
+
+.next button{
+    margin-left: 10rem;
+    width: 5rem;
+}
